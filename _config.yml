@@ -1,14 +1,13 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: OnlyDog
+title: OnlyDog | where sexy dogs find their community
+description: Join the pack, get the snack – premium doggo content at OnlyDogs!
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - crypto
+  - dogs
+  - onlydogs
+  - premium
+  - community
 show_hero: true
 menu:
   - title: Home
